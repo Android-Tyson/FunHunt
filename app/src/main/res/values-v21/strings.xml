@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="For_You">In this Section, User should login first and we will take the required data such as fav_Artist,fav_Resturant,fav_EventManagementCompany etc.</string>
+    <string name="Up_Coming">Up Coming</string>
+    <string name="facebook_app_id">300030377093536</string>
+    <string name="selectionInfoText">Please select your favourite venue where you would love to chill.</string>
+
+</resources>
